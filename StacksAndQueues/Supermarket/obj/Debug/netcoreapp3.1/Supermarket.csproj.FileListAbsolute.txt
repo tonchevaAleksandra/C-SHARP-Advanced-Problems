@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.genruntimeconfig.cache

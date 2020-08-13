@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.genruntimeconfig.cache
