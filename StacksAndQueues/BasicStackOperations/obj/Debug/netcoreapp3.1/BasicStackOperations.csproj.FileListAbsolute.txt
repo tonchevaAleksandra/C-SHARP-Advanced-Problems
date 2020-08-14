@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.genruntimeconfig.cache

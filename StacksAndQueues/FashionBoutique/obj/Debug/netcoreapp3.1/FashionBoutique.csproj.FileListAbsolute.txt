@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.genruntimeconfig.cache
