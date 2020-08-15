@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\bin\Debug\netcoreapp3.1\Pangram.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\bin\Debug\netcoreapp3.1\Pangram.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\bin\Debug\netcoreapp3.1\Pangram.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\bin\Debug\netcoreapp3.1\Pangram.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\obj\Debug\netcoreapp3.1\Pangram.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\obj\Debug\netcoreapp3.1\Pangram.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\obj\Debug\netcoreapp3.1\Pangram.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\obj\Debug\netcoreapp3.1\Pangram.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\Pangram\obj\Debug\netcoreapp3.1\Pangram.genruntimeconfig.cache

@@ -23,21 +23,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotPotato", "HotPotato\HotP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrafficJam", "TrafficJam\TrafficJam.csproj", "{8DAAC02E-C54A-494F-B9E1-A69EBD15A59D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StacksAndQueueExercise", "StacksAndQueueExercise", "{BAED8D18-46A6-4438-BB3A-BF7EDDA3431F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StacksAndQueuesExercise", "StacksAndQueuesExercise", "{BAED8D18-46A6-4438-BB3A-BF7EDDA3431F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicStackOperations", "BasicStackOperations\BasicStackOperations.csproj", "{6B2CF74E-0A5B-4136-B057-CC2A961DF24E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicStackOperations", "BasicStackOperations\BasicStackOperations.csproj", "{6B2CF74E-0A5B-4136-B057-CC2A961DF24E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicQueueOperations", "BasicQueueOperations\BasicQueueOperations.csproj", "{3B71933C-B73C-4BC5-BC28-9C6D901C5C9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicQueueOperations", "BasicQueueOperations\BasicQueueOperations.csproj", "{3B71933C-B73C-4BC5-BC28-9C6D901C5C9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumAndMinimumElement", "MaximumAndMinimumElement\MaximumAndMinimumElement.csproj", "{2D9814B1-06DB-4742-8B9B-7CA5E392F490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumAndMinimumElement", "MaximumAndMinimumElement\MaximumAndMinimumElement.csproj", "{2D9814B1-06DB-4742-8B9B-7CA5E392F490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood", "FastFood\FastFood.csproj", "{2E2F8C0E-86AE-4890-964D-A18F69798C3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastFood", "FastFood\FastFood.csproj", "{2E2F8C0E-86AE-4890-964D-A18F69798C3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionBoutique", "FashionBoutique\FashionBoutique.csproj", "{5CC7E240-3CEC-46FD-9E6F-A7AE38F5742E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashionBoutique", "FashionBoutique\FashionBoutique.csproj", "{5CC7E240-3CEC-46FD-9E6F-A7AE38F5742E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongsQueue", "SongsQueue\SongsQueue.csproj", "{BA39A5C9-3C0C-41D5-9FB7-254D5484F5F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongsQueue", "SongsQueue\SongsQueue.csproj", "{BA39A5C9-3C0C-41D5-9FB7-254D5484F5F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckTour", "TruckTour\TruckTour.csproj", "{C83F25BB-2DBA-4E6E-A24A-FA7FB0D40D96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckTour", "TruckTour\TruckTour.csproj", "{C83F25BB-2DBA-4E6E-A24A-FA7FB0D40D96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HackerRank Solutions", "HackerRank Solutions", "{F69E15E1-53B6-4B8B-9062-C36027BE9AE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangram", "Pangram\Pangram.csproj", "{7C098BA9-D65C-4E06-9D4F-E879A56A8556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightedUniformStrings", "WeightedUniformStrings\WeightedUniformStrings.csproj", "{BFE692AE-F652-4792-BD41-15CAA6B5876C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\CamelCase.csproj", "{610929BF-A6A9-4207-A92A-5C127E61AE5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -109,6 +117,18 @@ Global
 		{C83F25BB-2DBA-4E6E-A24A-FA7FB0D40D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C83F25BB-2DBA-4E6E-A24A-FA7FB0D40D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C83F25BB-2DBA-4E6E-A24A-FA7FB0D40D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C098BA9-D65C-4E06-9D4F-E879A56A8556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C098BA9-D65C-4E06-9D4F-E879A56A8556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C098BA9-D65C-4E06-9D4F-E879A56A8556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C098BA9-D65C-4E06-9D4F-E879A56A8556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE692AE-F652-4792-BD41-15CAA6B5876C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE692AE-F652-4792-BD41-15CAA6B5876C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE692AE-F652-4792-BD41-15CAA6B5876C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE692AE-F652-4792-BD41-15CAA6B5876C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610929BF-A6A9-4207-A92A-5C127E61AE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610929BF-A6A9-4207-A92A-5C127E61AE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610929BF-A6A9-4207-A92A-5C127E61AE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610929BF-A6A9-4207-A92A-5C127E61AE5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -129,6 +149,9 @@ Global
 		{5CC7E240-3CEC-46FD-9E6F-A7AE38F5742E} = {BAED8D18-46A6-4438-BB3A-BF7EDDA3431F}
 		{BA39A5C9-3C0C-41D5-9FB7-254D5484F5F7} = {BAED8D18-46A6-4438-BB3A-BF7EDDA3431F}
 		{C83F25BB-2DBA-4E6E-A24A-FA7FB0D40D96} = {BAED8D18-46A6-4438-BB3A-BF7EDDA3431F}
+		{7C098BA9-D65C-4E06-9D4F-E879A56A8556} = {F69E15E1-53B6-4B8B-9062-C36027BE9AE6}
+		{BFE692AE-F652-4792-BD41-15CAA6B5876C} = {F69E15E1-53B6-4B8B-9062-C36027BE9AE6}
+		{610929BF-A6A9-4207-A92A-5C127E61AE5D} = {F69E15E1-53B6-4B8B-9062-C36027BE9AE6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {790D3E8F-FC08-475C-93FC-EAB5CB980E11}

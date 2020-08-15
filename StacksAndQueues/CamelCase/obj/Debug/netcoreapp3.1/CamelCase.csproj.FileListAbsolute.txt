@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.genruntimeconfig.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.csprojAssemblyReference.cache
