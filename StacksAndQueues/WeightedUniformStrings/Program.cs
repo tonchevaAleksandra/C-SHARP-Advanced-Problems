@@ -26,56 +26,41 @@ namespace WeightedUniformStrings
         }
         static string[] weightedUniformStrings(string s, int[] queries)
         {
-            string[] result = new string[queries.Length];
-            List<int> stringToNums = new List<int>();
-            foreach (var item in s)
+          
+            List<string> result = new List<string>();
+            char[] charArray = s.ToCharArray();
+            int contigentString = 1;
+            int lastAlphaNum = 0;
+            List<int> numList = new List<int>();
+            for (int i = 0; i < charArray.Length; i++)
             {
-                stringToNums.Add(item - 96);
-            }
-            List<int> sumsOfSeq = new List<int>();
-            bool isMatched = false;
-            for (int k = 0; k < stringToNums.Count-1; k++)
-            {
-
-                int currSum = stringToNums[k];
-                for (int l = k+1; l < stringToNums.Count; l++)
+                int alphaNum = charArray[i] - 'a' + 1;
+                if (alphaNum == lastAlphaNum)
                 {
-
-                    if(stringToNums[k]==stringToNums[l])
-                    {
-                        currSum += stringToNums[l];
-                        k++;
-                        isMatched = true;
-
-                    }
-                    else
-                    {
-                        isMatched = false;
-                        break;
-                    }
-                }
-               
-                sumsOfSeq.Add(currSum);
-               
-            }
-            if(!isMatched)
-            {
-                sumsOfSeq.Add(stringToNums[stringToNums.Count - 1]);
-            }
-            for (int i = 0; i < queries.Length; i++)
-            {
-                if(sumsOfSeq.Contains(queries[i]) || stringToNums.Contains(queries[i]))
-                {
-                    result[i] = "Yes";
+                    contigentString++;
                 }
                 else
                 {
-                    result[i] = "No";
+                    contigentString = 1;
+                    lastAlphaNum = alphaNum;
+                }
+                int num = (alphaNum) * contigentString;
+                numList.Add(num);
+            }
+            for (int j = 0; j < queries.Length; j++)
+            {
+                int x = queries[j];
+                if (numList.Contains(x))
+                {
+                  result.Add("Yes");
+                }
+                else
+                {
+                  result.Add("No");
                 }
             }
-           
-            
-            return result;
+
+            return result.ToArray();
         }
     }
 }

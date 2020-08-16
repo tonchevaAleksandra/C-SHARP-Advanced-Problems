@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\bin\Debug\netcoreapp3.1\MissingNumbers.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\bin\Debug\netcoreapp3.1\MissingNumbers.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\bin\Debug\netcoreapp3.1\MissingNumbers.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\bin\Debug\netcoreapp3.1\MissingNumbers.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\bin\Debug\netcoreapp3.1\MissingNumbers.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\bin\Debug\netcoreapp3.1\MissingNumbers.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\obj\Debug\netcoreapp3.1\MissingNumbers.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\obj\Debug\netcoreapp3.1\MissingNumbers.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\obj\Debug\netcoreapp3.1\MissingNumbers.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\obj\Debug\netcoreapp3.1\MissingNumbers.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\obj\Debug\netcoreapp3.1\MissingNumbers.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\MissingNumbers\obj\Debug\netcoreapp3.1\MissingNumbers.genruntimeconfig.cache

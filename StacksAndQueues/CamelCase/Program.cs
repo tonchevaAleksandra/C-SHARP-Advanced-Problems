@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 namespace CamelCase
@@ -40,8 +41,8 @@ namespace CamelCase
                     sum += matches.Count(); 
                 }
             }
-           
 
+          
             return sum;
         }
     }

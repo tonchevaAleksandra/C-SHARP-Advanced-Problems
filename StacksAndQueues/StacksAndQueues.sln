@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightedUniformStrings", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\CamelCase.csproj", "{610929BF-A6A9-4207-A92A-5C127E61AE5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumbers", "MissingNumbers\MissingNumbers.csproj", "{57D3A507-25C1-4FC7-97D7-6C28DF41E96B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{610929BF-A6A9-4207-A92A-5C127E61AE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{610929BF-A6A9-4207-A92A-5C127E61AE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{610929BF-A6A9-4207-A92A-5C127E61AE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D3A507-25C1-4FC7-97D7-6C28DF41E96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D3A507-25C1-4FC7-97D7-6C28DF41E96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D3A507-25C1-4FC7-97D7-6C28DF41E96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D3A507-25C1-4FC7-97D7-6C28DF41E96B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -152,6 +158,7 @@ Global
 		{7C098BA9-D65C-4E06-9D4F-E879A56A8556} = {F69E15E1-53B6-4B8B-9062-C36027BE9AE6}
 		{BFE692AE-F652-4792-BD41-15CAA6B5876C} = {F69E15E1-53B6-4B8B-9062-C36027BE9AE6}
 		{610929BF-A6A9-4207-A92A-5C127E61AE5D} = {F69E15E1-53B6-4B8B-9062-C36027BE9AE6}
+		{57D3A507-25C1-4FC7-97D7-6C28DF41E96B} = {F69E15E1-53B6-4B8B-9062-C36027BE9AE6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {790D3E8F-FC08-475C-93FC-EAB5CB980E11}
