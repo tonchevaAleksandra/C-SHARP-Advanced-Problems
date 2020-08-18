@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache

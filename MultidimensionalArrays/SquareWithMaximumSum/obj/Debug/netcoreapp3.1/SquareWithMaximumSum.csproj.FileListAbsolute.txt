@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.genruntimeconfig.cache

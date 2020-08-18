@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.genruntimeconfig.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.csprojAssemblyReference.cache

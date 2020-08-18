@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.genruntimeconfig.cache
