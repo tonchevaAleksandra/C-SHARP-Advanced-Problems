@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.genruntimeconfig.cache

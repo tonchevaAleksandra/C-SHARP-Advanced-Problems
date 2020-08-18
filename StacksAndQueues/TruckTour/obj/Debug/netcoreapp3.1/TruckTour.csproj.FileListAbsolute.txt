@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.genruntimeconfig.cache

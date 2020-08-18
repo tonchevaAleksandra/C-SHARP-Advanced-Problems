@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.genruntimeconfig.cache

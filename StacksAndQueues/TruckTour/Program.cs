@@ -18,23 +18,34 @@ namespace TruckTour
                 int fuelAmount = 0;
                
                 bool isFound = true;
-
-                for (int st = 0; st < n; st++)
+                foreach (var item in stations)
                 {
-                    int[] currstation = stations.Dequeue();
-                    fuelAmount += currstation[0];
+                    fuelAmount += item[0];
 
-                    if(fuelAmount<currstation[1])
+                    if(fuelAmount<item[1])
                     {
                         isFound = false;
+                        break;
                     }
-
-                    fuelAmount -= currstation[1];
-
-                    stations.Enqueue(currstation);
+                    fuelAmount -= item[1];
                 }
 
-                if(isFound)
+                //    for (int st = 0; st < n; st++)
+                //    {
+                //        int[] currstation = stations.Dequeue();
+                //        fuelAmount += currstation[0];
+
+                //        if(fuelAmount<currstation[1])
+                //        {
+                //            isFound = false;
+                //        }
+
+                //        fuelAmount -= currstation[1];
+
+                //        stations.Enqueue(currstation);
+                //    }
+
+                if (isFound)
                 {
                     break;
                 }
