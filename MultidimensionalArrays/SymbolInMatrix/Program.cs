@@ -20,7 +20,7 @@ namespace SymbolInMatrix
             }
 
             char symbol = char.Parse(Console.ReadLine());
-            bool isFound = false;
+
             for (int row = 0; row < n; row++)
             {
                 for (int col = 0; col < n; col++)
@@ -28,18 +28,18 @@ namespace SymbolInMatrix
 
                     if (matrix[row, col] == symbol)
                     {
-                        isFound = true;
+
                         Console.WriteLine($"({row}, {col})");
                         return;
                     }
                 }
-                
+
             }
 
-           
-                Console.WriteLine($"{symbol} does not occur in the matrix ");
-          
+
+            Console.WriteLine($"{symbol} does not occur in the matrix ");
+
         }
-     
+
     }
 }

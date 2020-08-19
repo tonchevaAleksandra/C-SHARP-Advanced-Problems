@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.genruntimeconfig.cache

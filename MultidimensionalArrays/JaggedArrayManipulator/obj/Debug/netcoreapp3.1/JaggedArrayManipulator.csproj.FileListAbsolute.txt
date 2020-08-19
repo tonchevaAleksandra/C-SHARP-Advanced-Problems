@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.genruntimeconfig.cache
