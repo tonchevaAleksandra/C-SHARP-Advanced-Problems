@@ -33,8 +33,14 @@ namespace Cube
                     cube[2, col, depth] += 'o';
                 }
             }
-            
 
+            //while (true)
+            //{
+            //    Console.SetCursorPosition(5, 10);
+            //    Console.Write(("*");
+            //    Console.Sleep(500);
+            //    Console.SetCursorPosition(5, 10);
+            //}
         }
     }
 }
