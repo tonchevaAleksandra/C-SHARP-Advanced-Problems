@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\MultidimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\RadioactiveMutantVampireBunnies.genruntimeconfig.cache

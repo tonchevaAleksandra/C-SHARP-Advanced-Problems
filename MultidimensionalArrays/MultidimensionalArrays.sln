@@ -31,15 +31,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "Diago
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquaresInMatrix", "SquaresInMatrix\SquaresInMatrix.csproj", "{AAB9D207-B92E-40C2-B487-A635F503A716}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{31BE78DA-6E6D-438E-8673-85CBD18D8EAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{31BE78DA-6E6D-438E-8673-85CBD18D8EAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{F1D2550E-451A-48D2-ACE8-1F4CA3B2B67D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{F1D2550E-451A-48D2-ACE8-1F4CA3B2B67D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeMoves", "SnakeMoves\SnakeMoves.csproj", "{4FB5C7D5-FE73-49E1-8016-87B6B575595E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnakeMoves", "SnakeMoves\SnakeMoves.csproj", "{4FB5C7D5-FE73-49E1-8016-87B6B575595E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayManipulator", "JaggedArrayManipulator\JaggedArrayManipulator.csproj", "{8D3C19DB-5ECA-459E-99A0-AEA751F25338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArrayManipulator", "JaggedArrayManipulator\JaggedArrayManipulator.csproj", "{8D3C19DB-5ECA-459E-99A0-AEA751F25338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightGame", "KnightGame\KnightGame.csproj", "{6DD4DEA4-9E89-4FF3-81D8-9BE6F4F263BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightGame", "KnightGame\KnightGame.csproj", "{6DD4DEA4-9E89-4FF3-81D8-9BE6F4F263BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombs", "Bombs\Bombs.csproj", "{EEB71745-3FB6-4771-85BA-081664551931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miner", "Miner\Miner.csproj", "{FFF2C79E-E9F1-4083-9309-3BF96CD06286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioactiveMutantVampireBunnies", "RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies.csproj", "{7AA24D6E-7756-4F46-83F7-2A3D927645D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -115,6 +121,18 @@ Global
 		{6DD4DEA4-9E89-4FF3-81D8-9BE6F4F263BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DD4DEA4-9E89-4FF3-81D8-9BE6F4F263BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DD4DEA4-9E89-4FF3-81D8-9BE6F4F263BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB71745-3FB6-4771-85BA-081664551931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB71745-3FB6-4771-85BA-081664551931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB71745-3FB6-4771-85BA-081664551931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB71745-3FB6-4771-85BA-081664551931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF2C79E-E9F1-4083-9309-3BF96CD06286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF2C79E-E9F1-4083-9309-3BF96CD06286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF2C79E-E9F1-4083-9309-3BF96CD06286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF2C79E-E9F1-4083-9309-3BF96CD06286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA24D6E-7756-4F46-83F7-2A3D927645D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA24D6E-7756-4F46-83F7-2A3D927645D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA24D6E-7756-4F46-83F7-2A3D927645D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA24D6E-7756-4F46-83F7-2A3D927645D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -136,6 +154,9 @@ Global
 		{4FB5C7D5-FE73-49E1-8016-87B6B575595E} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
 		{8D3C19DB-5ECA-459E-99A0-AEA751F25338} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
 		{6DD4DEA4-9E89-4FF3-81D8-9BE6F4F263BA} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
+		{EEB71745-3FB6-4771-85BA-081664551931} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
+		{FFF2C79E-E9F1-4083-9309-3BF96CD06286} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
+		{7AA24D6E-7756-4F46-83F7-2A3D927645D2} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D1024D62-23F2-4D55-9284-D88724267454}
