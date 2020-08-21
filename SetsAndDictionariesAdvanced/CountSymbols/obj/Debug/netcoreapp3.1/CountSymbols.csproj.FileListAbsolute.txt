@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.genruntimeconfig.cache

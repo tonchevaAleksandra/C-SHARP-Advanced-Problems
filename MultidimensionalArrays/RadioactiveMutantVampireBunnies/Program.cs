@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RadioactiveMutantVampireBunnies
+namespace RadioactiveMutantVampireBunnies90Points
 {
     class Program
     {

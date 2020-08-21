@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\bin\Debug\netcoreapp3.1\Practice.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\bin\Debug\netcoreapp3.1\Practice.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\bin\Debug\netcoreapp3.1\Practice.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\obj\Debug\netcoreapp3.1\Practice.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\obj\Debug\netcoreapp3.1\Practice.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache

@@ -41,11 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArrayManipulator", "J
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightGame", "KnightGame\KnightGame.csproj", "{6DD4DEA4-9E89-4FF3-81D8-9BE6F4F263BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombs", "Bombs\Bombs.csproj", "{EEB71745-3FB6-4771-85BA-081664551931}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bombs", "Bombs\Bombs.csproj", "{EEB71745-3FB6-4771-85BA-081664551931}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miner", "Miner\Miner.csproj", "{FFF2C79E-E9F1-4083-9309-3BF96CD06286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miner", "Miner\Miner.csproj", "{FFF2C79E-E9F1-4083-9309-3BF96CD06286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioactiveMutantVampireBunnies", "RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies.csproj", "{7AA24D6E-7756-4F46-83F7-2A3D927645D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadioactiveMutantVampireBunnies90Points", "RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies90Points.csproj", "{7AA24D6E-7756-4F46-83F7-2A3D927645D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioactiveMutantVampireBunnies1", "RadioactiveMutantVampireBunnies1\RadioactiveMutantVampireBunnies1.csproj", "{5A136386-801D-4C5C-85BC-0D8E99598831}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -133,6 +135,10 @@ Global
 		{7AA24D6E-7756-4F46-83F7-2A3D927645D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AA24D6E-7756-4F46-83F7-2A3D927645D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AA24D6E-7756-4F46-83F7-2A3D927645D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A136386-801D-4C5C-85BC-0D8E99598831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A136386-801D-4C5C-85BC-0D8E99598831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A136386-801D-4C5C-85BC-0D8E99598831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A136386-801D-4C5C-85BC-0D8E99598831}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -157,6 +163,7 @@ Global
 		{EEB71745-3FB6-4771-85BA-081664551931} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
 		{FFF2C79E-E9F1-4083-9309-3BF96CD06286} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
 		{7AA24D6E-7756-4F46-83F7-2A3D927645D2} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
+		{5A136386-801D-4C5C-85BC-0D8E99598831} = {FC855E1F-CA0C-48B1-9A64-8F7D2488CAC0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D1024D62-23F2-4D55-9284-D88724267454}

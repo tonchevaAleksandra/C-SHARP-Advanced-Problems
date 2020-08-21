@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.genruntimeconfig.cache

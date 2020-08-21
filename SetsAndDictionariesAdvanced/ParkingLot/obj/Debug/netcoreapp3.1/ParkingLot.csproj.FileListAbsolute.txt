@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.genruntimeconfig.cache

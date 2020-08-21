@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.genruntimeconfig.cache

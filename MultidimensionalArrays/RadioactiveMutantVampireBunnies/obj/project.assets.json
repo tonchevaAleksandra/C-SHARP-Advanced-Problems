@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Documents\\aleks\\SOURCE\\C SHARP Advanced\\MultidimensionalArrays\\RadioactiveMutantVampireBunnies\\RadioactiveMutantVampireBunnies.csproj",
-      "projectName": "RadioactiveMutantVampireBunnies",
-      "projectPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP Advanced\\MultidimensionalArrays\\RadioactiveMutantVampireBunnies\\RadioactiveMutantVampireBunnies.csproj",
+      "projectUniqueName": "F:\\Documents\\aleks\\SOURCE\\C SHARP Advanced\\MultidimensionalArrays\\RadioactiveMutantVampireBunnies\\RadioactiveMutantVampireBunnies90Points.csproj",
+      "projectName": "RadioactiveMutantVampireBunnies90Points",
+      "projectPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP Advanced\\MultidimensionalArrays\\RadioactiveMutantVampireBunnies\\RadioactiveMutantVampireBunnies90Points.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
       "outputPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP Advanced\\MultidimensionalArrays\\RadioactiveMutantVampireBunnies\\obj\\",
       "projectStyle": "PackageReference",

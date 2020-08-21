@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.genruntimeconfig.cache

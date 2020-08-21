@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.genruntimeconfig.cache

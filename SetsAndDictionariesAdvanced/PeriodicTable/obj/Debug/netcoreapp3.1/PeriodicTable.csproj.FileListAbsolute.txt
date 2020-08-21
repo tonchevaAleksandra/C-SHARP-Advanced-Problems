@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.genruntimeconfig.cache

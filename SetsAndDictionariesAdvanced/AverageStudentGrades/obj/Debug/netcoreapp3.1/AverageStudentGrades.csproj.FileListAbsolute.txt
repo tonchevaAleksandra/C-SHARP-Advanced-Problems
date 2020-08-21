@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp3.1\AverageStudentGrades.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp3.1\AverageStudentGrades.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp3.1\AverageStudentGrades.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp3.1\AverageStudentGrades.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp3.1\AverageStudentGrades.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp3.1\AverageStudentGrades.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp3.1\AverageStudentGrades.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp3.1\AverageStudentGrades.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp3.1\AverageStudentGrades.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp3.1\AverageStudentGrades.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp3.1\AverageStudentGrades.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp3.1\AverageStudentGrades.genruntimeconfig.cache

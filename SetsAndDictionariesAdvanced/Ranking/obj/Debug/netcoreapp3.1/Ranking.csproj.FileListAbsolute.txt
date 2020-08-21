@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.genruntimeconfig.cache
