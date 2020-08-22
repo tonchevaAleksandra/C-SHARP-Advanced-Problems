@@ -1,0 +1,17 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\actualResult.txt
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\expectedResult.txt
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\text.txt
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\words.txt
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\WordCount\obj\Debug\netcoreapp3.1\WordCount.csprojAssemblyReference.cache

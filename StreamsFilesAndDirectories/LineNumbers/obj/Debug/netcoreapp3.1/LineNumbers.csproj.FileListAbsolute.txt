@@ -1,0 +1,15 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\bin\Debug\netcoreapp3.1\text.txt
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\LineNumbers\bin\Debug\netcoreapp3.1\output.txt
