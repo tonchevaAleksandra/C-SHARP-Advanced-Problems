@@ -9,7 +9,7 @@ namespace LineNumbers
         static void Main(string[] args)
         {
             using var reader = new StreamReader("text.txt");
-            using StreamWriter writer = new StreamWriter("output.txt",true);//it stays if false don't saves the vhangesq just run it at the moment
+            using StreamWriter writer = new StreamWriter("output.txt",true);//it stays if false don't saves the changes just run it at the moment
 
             int count = 1;
 

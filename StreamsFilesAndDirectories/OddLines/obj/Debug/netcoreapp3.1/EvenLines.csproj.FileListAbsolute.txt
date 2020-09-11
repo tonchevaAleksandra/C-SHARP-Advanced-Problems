@@ -11,4 +11,4 @@ F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\OddLines\o
 F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\OddLines\obj\Debug\netcoreapp3.1\EvenLines.dll
 F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\OddLines\obj\Debug\netcoreapp3.1\EvenLines.pdb
 F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\OddLines\obj\Debug\netcoreapp3.1\EvenLines.genruntimeconfig.cache
-F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\OddLines\bin\Debug\netcoreapp3.1\output.txt
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\OddLines\obj\Debug\netcoreapp3.1\EvenLines.csprojAssemblyReference.cache

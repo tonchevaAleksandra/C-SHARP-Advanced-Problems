@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\bin\Debug\netcoreapp3.1\Directories.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\bin\Debug\netcoreapp3.1\Directories.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\bin\Debug\netcoreapp3.1\Directories.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\bin\Debug\netcoreapp3.1\Directories.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\bin\Debug\netcoreapp3.1\Directories.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\bin\Debug\netcoreapp3.1\Directories.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\obj\Debug\netcoreapp3.1\Directories.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\obj\Debug\netcoreapp3.1\Directories.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\obj\Debug\netcoreapp3.1\Directories.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\obj\Debug\netcoreapp3.1\Directories.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\obj\Debug\netcoreapp3.1\Directories.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\Directories\obj\Debug\netcoreapp3.1\Directories.genruntimeconfig.cache
