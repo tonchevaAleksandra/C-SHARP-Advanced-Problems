@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.genruntimeconfig.cache

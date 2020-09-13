@@ -1,0 +1,14 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\bin\Debug\netcoreapp3.1\text.txt
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\bin\Debug\netcoreapp3.1\EvenLines1.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\bin\Debug\netcoreapp3.1\EvenLines1.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\bin\Debug\netcoreapp3.1\EvenLines1.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\bin\Debug\netcoreapp3.1\EvenLines1.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\bin\Debug\netcoreapp3.1\EvenLines1.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\bin\Debug\netcoreapp3.1\EvenLines1.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\obj\Debug\netcoreapp3.1\EvenLines1.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\obj\Debug\netcoreapp3.1\EvenLines1.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\obj\Debug\netcoreapp3.1\EvenLines1.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\obj\Debug\netcoreapp3.1\EvenLines1.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\obj\Debug\netcoreapp3.1\EvenLines1.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\obj\Debug\netcoreapp3.1\EvenLines1.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\EvenLines1\obj\Debug\netcoreapp3.1\EvenLines1.genruntimeconfig.cache

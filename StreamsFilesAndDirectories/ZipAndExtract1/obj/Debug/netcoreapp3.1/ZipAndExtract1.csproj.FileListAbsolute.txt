@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\bin\Debug\netcoreapp3.1\copyMe.png
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\bin\Debug\netcoreapp3.1\ZipAndExtract1.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\bin\Debug\netcoreapp3.1\ZipAndExtract1.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\bin\Debug\netcoreapp3.1\ZipAndExtract1.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\bin\Debug\netcoreapp3.1\ZipAndExtract1.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\bin\Debug\netcoreapp3.1\ZipAndExtract1.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\bin\Debug\netcoreapp3.1\ZipAndExtract1.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\obj\Debug\netcoreapp3.1\ZipAndExtract1.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\obj\Debug\netcoreapp3.1\ZipAndExtract1.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\obj\Debug\netcoreapp3.1\ZipAndExtract1.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\obj\Debug\netcoreapp3.1\ZipAndExtract1.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\obj\Debug\netcoreapp3.1\ZipAndExtract1.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\ZipAndExtract1\obj\Debug\netcoreapp3.1\ZipAndExtract1.genruntimeconfig.cache

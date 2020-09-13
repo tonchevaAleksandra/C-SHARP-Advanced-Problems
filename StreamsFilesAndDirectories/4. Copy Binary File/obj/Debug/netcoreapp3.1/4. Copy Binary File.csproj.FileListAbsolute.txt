@@ -1,0 +1,16 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\bin\Debug\netcoreapp3.1\copyMe.png
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.genruntimeconfig.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\bin\Debug\netcoreapp3.1\copied.png
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\4. Copy Binary File\bin\Debug\netcoreapp3.1\copyMe2.jpg

@@ -1,0 +1,14 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\bin\Debug\netcoreapp3.1\text.txt
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.genruntimeconfig.cache

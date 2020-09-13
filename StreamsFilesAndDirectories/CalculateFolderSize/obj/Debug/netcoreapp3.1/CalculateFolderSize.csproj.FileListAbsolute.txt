@@ -1,0 +1,16 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\TestFolder\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\TestFolder\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\TestFolder\1. Java-Advanced-Stacks-and-Queues.pptx
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\TestFolder\2. Simple-Calculations-Exercises.docx
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\CalculateFolderSize.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\CalculateFolderSize.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\CalculateFolderSize.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\CalculateFolderSize.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\CalculateFolderSize.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\bin\Debug\netcoreapp3.1\CalculateFolderSize.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\obj\Debug\netcoreapp3.1\CalculateFolderSize.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\obj\Debug\netcoreapp3.1\CalculateFolderSize.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\obj\Debug\netcoreapp3.1\CalculateFolderSize.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\obj\Debug\netcoreapp3.1\CalculateFolderSize.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\obj\Debug\netcoreapp3.1\CalculateFolderSize.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\StreamsFilesAndDirectories\CalculateFolderSize\obj\Debug\netcoreapp3.1\CalculateFolderSize.genruntimeconfig.cache
