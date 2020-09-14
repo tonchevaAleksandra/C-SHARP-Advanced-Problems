@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp3.1\CountUppercaseWords.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp3.1\CountUppercaseWords.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp3.1\CountUppercaseWords.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp3.1\CountUppercaseWords.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp3.1\CountUppercaseWords.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\bin\Debug\netcoreapp3.1\CountUppercaseWords.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp3.1\CountUppercaseWords.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp3.1\CountUppercaseWords.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp3.1\CountUppercaseWords.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp3.1\CountUppercaseWords.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp3.1\CountUppercaseWords.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp3.1\CountUppercaseWords.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CountUppercaseWords\obj\Debug\netcoreapp3.1\CountUppercaseWords.genruntimeconfig.cache
