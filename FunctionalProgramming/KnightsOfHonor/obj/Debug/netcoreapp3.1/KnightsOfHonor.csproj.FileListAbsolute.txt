@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.1\KnightsOfHonor.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.1\KnightsOfHonor.genruntimeconfig.cache

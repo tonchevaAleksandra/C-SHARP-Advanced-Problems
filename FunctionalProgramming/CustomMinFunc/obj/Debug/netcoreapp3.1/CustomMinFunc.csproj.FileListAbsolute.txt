@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp3.1\CustomMinFunc.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp3.1\CustomMinFunc.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp3.1\CustomMinFunc.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp3.1\CustomMinFunc.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp3.1\CustomMinFunc.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp3.1\CustomMinFunc.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp3.1\CustomMinFunc.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp3.1\CustomMinFunc.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp3.1\CustomMinFunc.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp3.1\CustomMinFunc.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp3.1\CustomMinFunc.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp3.1\CustomMinFunc.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp3.1\CustomMinFunc.genruntimeconfig.cache
