@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.genruntimeconfig.cache

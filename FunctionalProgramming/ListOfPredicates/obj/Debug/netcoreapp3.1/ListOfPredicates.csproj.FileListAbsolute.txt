@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.genruntimeconfig.cache

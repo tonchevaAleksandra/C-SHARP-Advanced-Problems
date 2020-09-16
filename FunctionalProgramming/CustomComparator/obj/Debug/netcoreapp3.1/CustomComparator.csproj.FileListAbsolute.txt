@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.genruntimeconfig.cache
