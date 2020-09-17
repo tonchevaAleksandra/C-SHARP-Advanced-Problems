@@ -40,7 +40,6 @@ namespace PredicateParty
                         }
                     }
                 }
-
             }
 
             if(guests.Count>0)
@@ -48,14 +47,12 @@ namespace PredicateParty
                 string result = string.Join(", ", guests);
                 Console.WriteLine($"{result} are going to the party!");
             }
+
             else
             {
                 Console.WriteLine("Nobody is going to the party!");
             }
-
-        }
-
-       
+        }     
 
         static Predicate<string> GetPredicate(string[] predicateArgs)
         {

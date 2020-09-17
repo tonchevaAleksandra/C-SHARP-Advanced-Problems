@@ -16,6 +16,7 @@ namespace CustomMinFunc
                     if (item < minValue)
                         minValue = item;
                 }
+
                 return minValue;
             };
 

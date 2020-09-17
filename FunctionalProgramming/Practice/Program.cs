@@ -18,8 +18,7 @@ namespace Practice
             //Cat.Name - it's not available because we have to make an object of this class, it's not stqatic
             var cat = new Cat();
             var name = cat.Name;
-
-            
+      
         }
 
         static int Sum(int x, int y)=>someNumber + x + y;

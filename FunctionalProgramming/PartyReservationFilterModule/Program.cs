@@ -42,8 +42,19 @@ namespace PartyReservationFilterModule
             foreach (var item in filters)
             {
                 string[] filterArgs = item.Split();
-                string filter = filterArgs[0] + " " + filterArgs[1];
-                string param = filterArgs[2];
+                string filter = string.Empty;
+                string param = string.Empty;
+                if (filterArgs.Length==3)
+                {
+                     filter = filterArgs[0] + " " + filterArgs[1];
+                     param = filterArgs[2];
+                }
+                else if(filterArgs.Length<3)
+                {
+                    filter = filterArgs[0];
+                    param = filterArgs[1];
+                }
+               
                 Predicate<string> predicate = GetPredicate(filter, param);
                 reservations.RemoveAll(predicate);
             }
@@ -52,23 +63,6 @@ namespace PartyReservationFilterModule
             Console.WriteLine(string.Join(" ", reservations));
           
         }
-
-        //static List<string> GetFilters(List<string> filters, string command, string filter, string param)
-        //{
-        //    switch (command)
-        //    {
-        //        case "Add filter":
-        //            filters.Add(filter + " " + param);
-
-        //            break;
-        //        case "Remove filter":
-        //           if(filters.Contains(filter + " " + param))
-        //                    filters.Remove(filter + " " + param);
-        //            break;
-               
-        //    }
-        //    return filters;
-        //}
 
         static Predicate<string> GetPredicate(string filter, string param)
         {
