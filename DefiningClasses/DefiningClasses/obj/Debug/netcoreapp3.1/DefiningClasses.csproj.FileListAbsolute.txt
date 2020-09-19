@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses1.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses1.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses1.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses1.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses1.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses1.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses1.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses1.pdb

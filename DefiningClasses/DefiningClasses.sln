@@ -4,10 +4,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DefiningClassesLAB", "DefiningClassesLAB", "{6CC20836-8A5E-4C6D-B676-6854136A7DFC}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\LENOVO\Desktop\Shortcuts For Classes.txt = C:\Users\LENOVO\Desktop\Shortcuts For Classes.txt
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{BAE7D688-BCF4-46F6-A0C5-D920C991CCC6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarManufacturer", "CarManufacturer\CarManufacturer.csproj", "{8B3426C7-6BAD-489B-90ED-10967F0F9A8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DefiningClassesEXERCISES", "DefiningClassesEXERCISES", "{143FA9F8-F46C-4A41-8D9B-BB1DC667B8E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{16F2BD46-3E3D-4689-BB50-8FDF969ED05A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +30,10 @@ Global
 		{8B3426C7-6BAD-489B-90ED-10967F0F9A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B3426C7-6BAD-489B-90ED-10967F0F9A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B3426C7-6BAD-489B-90ED-10967F0F9A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F2BD46-3E3D-4689-BB50-8FDF969ED05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F2BD46-3E3D-4689-BB50-8FDF969ED05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F2BD46-3E3D-4689-BB50-8FDF969ED05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F2BD46-3E3D-4689-BB50-8FDF969ED05A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +41,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BAE7D688-BCF4-46F6-A0C5-D920C991CCC6} = {6CC20836-8A5E-4C6D-B676-6854136A7DFC}
 		{8B3426C7-6BAD-489B-90ED-10967F0F9A8D} = {6CC20836-8A5E-4C6D-B676-6854136A7DFC}
+		{16F2BD46-3E3D-4689-BB50-8FDF969ED05A} = {143FA9F8-F46C-4A41-8D9B-BB1DC667B8E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {43D505F0-E8AC-4772-9025-FC0CC73DDAE9}
