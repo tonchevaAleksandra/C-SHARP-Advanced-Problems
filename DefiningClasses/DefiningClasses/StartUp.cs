@@ -18,8 +18,13 @@ namespace DefiningClasses
                 Person currPerson = new Person(name, age);
                 family.AddMamber(currPerson);
             }
- 
-            Console.WriteLine(family.GetOldestMember().ToString());
+
+            var peopleAbove30 = family.GetPeopleAbove30();
+
+            foreach (Person person in peopleAbove30)
+            {
+                Console.WriteLine(person.ToString());
+            }
         }
     }
 }

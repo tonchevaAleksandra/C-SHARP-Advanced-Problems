@@ -20,13 +20,9 @@ namespace DefiningClasses
             this.people.Add(person);
         }
 
-        public Person GetOldestMember()
+        public HashSet<Person> GetPeopleAbove30()
         {
-            Person oldestPerson = this.people
-                .OrderByDescending(p=>p.Age)
-                .FirstOrDefault();
-
-            return oldestPerson;
+            return people.Where(p => p.Age > 30).OrderBy(p => p.Name).ToHashSet();
         }
 
 
