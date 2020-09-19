@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+
 
 namespace DefiningClasses
 {
     public class Family
     {
-        private /*readonly*/ HashSet<Person> people;
+        private HashSet<Person> people;
 
         public Family()
         {

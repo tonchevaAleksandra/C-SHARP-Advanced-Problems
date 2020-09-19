@@ -19,7 +19,7 @@ namespace DefiningClasses
                 family.AddMamber(currPerson);
             }
  
-            Console.WriteLine(family.GetOldestMember());
+            Console.WriteLine(family.GetOldestMember().ToString());
         }
     }
 }

@@ -22,8 +22,6 @@ namespace DefiningClasses
             set { this.age = value; }
         }
 
-
-
         public Person()
         {
             this.Name = "No name";

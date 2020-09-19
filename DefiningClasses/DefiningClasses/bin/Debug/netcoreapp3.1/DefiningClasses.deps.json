@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "DefiningClasses1/1.0.0": {
+      "DefiningClasses/1.0.0": {
         "runtime": {
-          "DefiningClasses1.dll": {}
+          "DefiningClasses.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DefiningClasses1/1.0.0": {
+    "DefiningClasses/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
