@@ -8,8 +8,7 @@ namespace RawData
     {
         static void Main(string[] args)
         {
-            //"{model} {engineSpeed} {enginePower} {cargoWeight} {cargoType} {tire1Pressure} {tire1Age} {tire2Pressure} {tire2Age} {tire3Pressure} {tire3Age} {tire4Pressure} {tire4Age}"
-
+           
             int n = int.Parse(Console.ReadLine());
 
             List<Car> cars = new List<Car>();
@@ -57,7 +56,7 @@ namespace RawData
 
             foreach (Car car in result)
             {
-                Console.WriteLine(car.Model);
+                Console.WriteLine(car.ToString());
             }
         }
     }

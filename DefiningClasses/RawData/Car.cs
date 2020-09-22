@@ -6,7 +6,7 @@ namespace RawData
 {
    public class Car
     {
-        //"{model} {engineSpeed} {enginePower} {cargoWeight} {cargoType} {tire1Pressure} {tire1Age} {tire2Pressure} {tire2Age} {tire3Pressure} {tire3Age} {tire4Pressure} {tire4Age}"
+        
 
         public Car(string model, Engine engine, Cargo cargo, List<Tire> tires)
         {
@@ -27,7 +27,7 @@ namespace RawData
 
         public List<Tire> Tires
         {
-            get { return tires; }
+            get { return this.tires; }
             set { tires = value; }
         }
 
@@ -47,7 +47,10 @@ namespace RawData
             set { engine = value; }
         }
 
-
+        public override string ToString()
+        {
+            return this.Model.ToString();
+        }
 
     }
 }

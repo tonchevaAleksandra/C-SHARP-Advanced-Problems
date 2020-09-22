@@ -6,6 +6,7 @@ namespace CarSalesMan
 {
     public class Engine
     {
+        //private int? displacement;// this can set int to null if it's empty
 
         public Engine()
         {
@@ -51,10 +52,10 @@ namespace CarSalesMan
 
         private int displacement;
 
-        public int Displacement
+        public int? Displacement
         {
-            get { return displacement; }
-            set { displacement = value; }
+            get;
+            set;
         }
 
         private string efficiency;
@@ -68,18 +69,15 @@ namespace CarSalesMan
         public override string ToString()
         {
             var sb = new StringBuilder();
+            string displacementStr = this.Displacement.HasValue ? this.Displacement.ToString() : "n/a";
+            string efficiencyStr = string.IsNullOrEmpty(this.Efficiency) ? "n/a" : this.Efficiency;
+
             sb.AppendLine($"{this.Model}:");
             sb.AppendLine($"  Power: {this.Power}");
-            if (this.Displacement == 0)
-            {                        
-                sb.AppendLine($"  Displacement: n/a");                      
-            }
-            else
-            {  
-                sb.AppendLine($"  Displacement: {this.Displacement}");
-            }
-            sb.Append($"  Efficiency: {this.Efficiency}");
-            return sb.ToString();
+            sb.AppendLine($"  Displacement: {displacementStr}");         
+            sb.Append($"  Efficiency: {efficiencyStr}");
+
+            return sb.ToString().TrimEnd();
         }
     }
 }
