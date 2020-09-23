@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.genruntimeconfig.cache
