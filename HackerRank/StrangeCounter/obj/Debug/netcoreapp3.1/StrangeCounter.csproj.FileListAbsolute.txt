@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\bin\Debug\netcoreapp3.1\StrangeCounter.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\bin\Debug\netcoreapp3.1\StrangeCounter.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\bin\Debug\netcoreapp3.1\StrangeCounter.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\bin\Debug\netcoreapp3.1\StrangeCounter.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\bin\Debug\netcoreapp3.1\StrangeCounter.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\bin\Debug\netcoreapp3.1\StrangeCounter.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\obj\Debug\netcoreapp3.1\StrangeCounter.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\obj\Debug\netcoreapp3.1\StrangeCounter.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\obj\Debug\netcoreapp3.1\StrangeCounter.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\obj\Debug\netcoreapp3.1\StrangeCounter.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\obj\Debug\netcoreapp3.1\StrangeCounter.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\obj\Debug\netcoreapp3.1\StrangeCounter.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\StrangeCounter\obj\Debug\netcoreapp3.1\StrangeCounter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.genruntimeconfig.cache
