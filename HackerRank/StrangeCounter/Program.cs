@@ -1,13 +1,44 @@
-﻿
+﻿using System.CodeDom.Compiler;
+using System.Collections.Generic;
+using System.Collections;
+using System.ComponentModel;
+using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization;
+using System.Text.RegularExpressions;
+using System.Text;
 using System;
 
-namespace StrangeCounter
+class Solution
 {
-    class Program
+
+    // Complete the strangeCounter function below.
+    static long strangeCounter(long t)
     {
-        static void Main(string[] args)
+        long cycle = 3;
+        while (t>cycle)
         {
-            Console.WriteLine("Hello World!");
+            t -= cycle;
+            cycle *= 2;
         }
+
+        return (cycle - t + 1);
+    }
+
+    static void Main(string[] args)
+    {
+        //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+
+        long t = Convert.ToInt64(Console.ReadLine());
+
+        long result = strangeCounter(t);
+
+        Console.WriteLine(result);
+
+        //textWriter.Flush();
+        //textWriter.Close();
     }
 }

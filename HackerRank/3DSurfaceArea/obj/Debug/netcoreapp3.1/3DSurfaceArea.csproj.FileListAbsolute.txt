@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\bin\Debug\netcoreapp3.1\3DSurfaceArea.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\bin\Debug\netcoreapp3.1\3DSurfaceArea.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\bin\Debug\netcoreapp3.1\3DSurfaceArea.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\bin\Debug\netcoreapp3.1\3DSurfaceArea.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\bin\Debug\netcoreapp3.1\3DSurfaceArea.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\bin\Debug\netcoreapp3.1\3DSurfaceArea.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\obj\Debug\netcoreapp3.1\3DSurfaceArea.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\obj\Debug\netcoreapp3.1\3DSurfaceArea.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\obj\Debug\netcoreapp3.1\3DSurfaceArea.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\obj\Debug\netcoreapp3.1\3DSurfaceArea.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\obj\Debug\netcoreapp3.1\3DSurfaceArea.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\obj\Debug\netcoreapp3.1\3DSurfaceArea.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\3DSurfaceArea\obj\Debug\netcoreapp3.1\3DSurfaceArea.genruntimeconfig.cache

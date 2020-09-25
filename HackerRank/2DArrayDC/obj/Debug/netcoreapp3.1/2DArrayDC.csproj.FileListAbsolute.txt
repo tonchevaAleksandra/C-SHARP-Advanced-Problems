@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\bin\Debug\netcoreapp3.1\2DArrayDC.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\bin\Debug\netcoreapp3.1\2DArrayDC.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\bin\Debug\netcoreapp3.1\2DArrayDC.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\bin\Debug\netcoreapp3.1\2DArrayDC.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\bin\Debug\netcoreapp3.1\2DArrayDC.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\bin\Debug\netcoreapp3.1\2DArrayDC.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\obj\Debug\netcoreapp3.1\2DArrayDC.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\obj\Debug\netcoreapp3.1\2DArrayDC.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\obj\Debug\netcoreapp3.1\2DArrayDC.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\obj\Debug\netcoreapp3.1\2DArrayDC.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\obj\Debug\netcoreapp3.1\2DArrayDC.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\2DArrayDC\obj\Debug\netcoreapp3.1\2DArrayDC.genruntimeconfig.cache
