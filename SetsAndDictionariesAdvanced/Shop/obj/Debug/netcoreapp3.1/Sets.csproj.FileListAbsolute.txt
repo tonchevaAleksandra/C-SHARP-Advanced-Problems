@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\bin\Debug\netcoreapp3.1\Sets.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\bin\Debug\netcoreapp3.1\Sets.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\bin\Debug\netcoreapp3.1\Sets.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\bin\Debug\netcoreapp3.1\Sets.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\bin\Debug\netcoreapp3.1\Sets.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\bin\Debug\netcoreapp3.1\Sets.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\obj\Debug\netcoreapp3.1\Sets.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\obj\Debug\netcoreapp3.1\Sets.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\obj\Debug\netcoreapp3.1\Sets.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\obj\Debug\netcoreapp3.1\Sets.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\obj\Debug\netcoreapp3.1\Sets.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\obj\Debug\netcoreapp3.1\Sets.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\SetsAndDictionariesAdvanced\Shop\obj\Debug\netcoreapp3.1\Sets.genruntimeconfig.cache
