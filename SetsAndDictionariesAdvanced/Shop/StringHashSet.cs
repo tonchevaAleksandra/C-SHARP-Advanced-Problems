@@ -64,7 +64,7 @@ namespace Sets
             //{
             //    asciiResult += key[i];
             //}
-            return asciiResult % key.Length;
+            //return asciiResult % key.Length;
         }
 
         public bool Contains(string key)

@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.genruntimeconfig.cache
