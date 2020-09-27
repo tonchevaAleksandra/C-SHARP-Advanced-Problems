@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\bin\Debug\netcoreapp3.1\ImplementingStackTemplate.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\bin\Debug\netcoreapp3.1\ImplementingStackTemplate.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\bin\Debug\netcoreapp3.1\ImplementingStackTemplate.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\bin\Debug\netcoreapp3.1\ImplementingStackTemplate.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\bin\Debug\netcoreapp3.1\ImplementingStackTemplate.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\bin\Debug\netcoreapp3.1\ImplementingStackTemplate.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\obj\Debug\netcoreapp3.1\ImplementingStackTemplate.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\obj\Debug\netcoreapp3.1\ImplementingStackTemplate.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\obj\Debug\netcoreapp3.1\ImplementingStackTemplate.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\obj\Debug\netcoreapp3.1\ImplementingStackTemplate.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\obj\Debug\netcoreapp3.1\ImplementingStackTemplate.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\obj\Debug\netcoreapp3.1\ImplementingStackTemplate.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\ImplementingStackTemplate\obj\Debug\netcoreapp3.1\ImplementingStackTemplate.genruntimeconfig.cache

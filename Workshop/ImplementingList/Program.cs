@@ -39,7 +39,11 @@ namespace ImplementingList
 
             var removed = otherList.RemoveAt(2);
 
-            Console.WriteLine(string.Join(" ", otherList));
+            for (int i = 0; i < otherList.Count; i++)
+            {
+                Console.Write(otherList[i]+ " ");
+            }
+            Console.WriteLine();
             Console.WriteLine(otherList.Count);
 
             Console.WriteLine(otherList.Contains(8));
@@ -63,15 +67,16 @@ namespace ImplementingList
             listToInsert.Add(3);
             listToInsert.Add(4);
 
+            //listToInsert.Insert(5, 200); // Index out og range
             listToInsert.Insert(3, 100);
-
             Console.WriteLine(listToInsert[3]); //100
             Console.WriteLine(listToInsert[4]); //4
-
+            listToInsert.Insert(5, 200);
+            Console.WriteLine(listToInsert[5]); //200
 
             var randomList = new MyList()
             {
-
+                //6, 7, 8, 9
             };
         }
     }
