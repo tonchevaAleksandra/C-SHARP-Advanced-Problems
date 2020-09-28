@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "TimeConve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrangeCounter", "StrangeCounter\StrangeCounter.csproj", "{6A5D6870-1D0F-495B-9625-605F77A21EF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DSurfaceArea", "3DSurfaceArea\3DSurfaceArea.csproj", "{AE11690D-C49C-47C2-8C39-11CADBC7B348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3DSurfaceArea", "3DSurfaceArea\3DSurfaceArea.csproj", "{AE11690D-C49C-47C2-8C39-11CADBC7B348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArrayDC", "2DArrayDC\2DArrayDC.csproj", "{44B3AF10-279D-4EB7-BC61-F1B100409B7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DArrayDC", "2DArrayDC\2DArrayDC.csproj", "{44B3AF10-279D-4EB7-BC61-F1B100409B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearChaos", "NewYearChaos\NewYearChaos.csproj", "{BB0D39E7-DC99-4F12-9473-A42D7CE0944A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{44B3AF10-279D-4EB7-BC61-F1B100409B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44B3AF10-279D-4EB7-BC61-F1B100409B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44B3AF10-279D-4EB7-BC61-F1B100409B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0D39E7-DC99-4F12-9473-A42D7CE0944A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0D39E7-DC99-4F12-9473-A42D7CE0944A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0D39E7-DC99-4F12-9473-A42D7CE0944A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0D39E7-DC99-4F12-9473-A42D7CE0944A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
