@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Workshop\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.genruntimeconfig.cache
