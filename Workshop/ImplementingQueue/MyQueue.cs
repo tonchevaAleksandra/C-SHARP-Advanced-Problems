@@ -88,6 +88,32 @@ namespace ImplementingQueue
             this.data = newData;
         }
 
+        public bool Contains(T element)
+        {
+            this.ValidateIfQueueIsEmpty();
+            foreach (var item in this.data)
+            {
+                if(item.Equals(element))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public T[] ToArray()
+        {
+            return this.data;
+        }
+
+        public void Foreach(Action<T> action)
+        {
+            for (int i = 0; i < this.Count; i++)
+            {
+                action(this.data[i]);
+            }
+        }
+
         public IEnumerator<T> GetEnumerator()
         => this.data
             .Take(this.Count) 

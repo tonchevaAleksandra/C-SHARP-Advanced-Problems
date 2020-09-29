@@ -22,7 +22,13 @@ namespace ImplementingQueue
 
             var firstQueue = new MyQueue<string>(collection);
             Console.WriteLine(firstQueue.Peek());
+            Console.WriteLine(firstQueue.Contains("some"));
+            Console.WriteLine(firstQueue.Contains("some 3"));
+            firstQueue.Foreach(x => Console.WriteLine(x.Length));
+            var copied=firstQueue.ToArray();
             //firstQueue.Foreach(Console.WriteLine);
+            Queue<int> someQ = new Queue<int>();
+            someQ.ToArray();
         
         }
     }
