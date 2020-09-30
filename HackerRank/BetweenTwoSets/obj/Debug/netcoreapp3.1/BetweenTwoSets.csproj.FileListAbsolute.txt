@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.genruntimeconfig.cache

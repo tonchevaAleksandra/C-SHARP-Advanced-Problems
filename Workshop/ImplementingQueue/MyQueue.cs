@@ -23,8 +23,6 @@ namespace ImplementingQueue
             this.data = new T[capacity];
         }
 
-       
-
         public int Count{ get; private set; }
         public MyQueue(T[] collection):
             this(collection.Length)

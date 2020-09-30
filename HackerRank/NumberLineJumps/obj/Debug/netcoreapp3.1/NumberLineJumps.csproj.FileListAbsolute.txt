@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.genruntimeconfig.cache
