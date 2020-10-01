@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.genruntimeconfig.cache

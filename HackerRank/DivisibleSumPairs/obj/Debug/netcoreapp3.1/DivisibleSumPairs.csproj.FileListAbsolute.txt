@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.genruntimeconfig.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.csprojAssemblyReference.cache

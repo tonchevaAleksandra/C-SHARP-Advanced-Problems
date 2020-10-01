@@ -33,15 +33,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewYearChaos", "NewYearChao
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{A8B4CBD0-E4FA-40F2-8C33-BB2519ABB7B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplesAndOranges", "ApplesAndOranges\ApplesAndOranges.csproj", "{23DDF06E-3559-4034-BFF7-418B5B7CDB94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplesAndOranges", "ApplesAndOranges\ApplesAndOranges.csproj", "{23DDF06E-3559-4034-BFF7-418B5B7CDB94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLineJumps", "NumberLineJumps\NumberLineJumps.csproj", "{524BA7C3-2E58-4EE5-AD43-27452CDE97F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberLineJumps", "NumberLineJumps\NumberLineJumps.csproj", "{524BA7C3-2E58-4EE5-AD43-27452CDE97F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{1BBF034B-0826-4B08-A11A-8FA1E7956840}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{1BBF034B-0826-4B08-A11A-8FA1E7956840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingTheRecords", "BreakingTheRecords\BreakingTheRecords.csproj", "{A28FD112-8979-4A1B-B861-9EBDB01B32E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreakingTheRecords", "BreakingTheRecords\BreakingTheRecords.csproj", "{A28FD112-8979-4A1B-B861-9EBDB01B32E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubArrayDivision", "SubArrayDivision\SubArrayDivision.csproj", "{6B980DFB-2E63-4C9F-9550-A3A5A0B38FF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubArrayDivision", "SubArrayDivision\SubArrayDivision.csproj", "{6B980DFB-2E63-4C9F-9550-A3A5A0B38FF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{85BBFE4C-4FC9-4C7A-B4E9-383DBCD747DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{6B980DFB-2E63-4C9F-9550-A3A5A0B38FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B980DFB-2E63-4C9F-9550-A3A5A0B38FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B980DFB-2E63-4C9F-9550-A3A5A0B38FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85BBFE4C-4FC9-4C7A-B4E9-383DBCD747DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85BBFE4C-4FC9-4C7A-B4E9-383DBCD747DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85BBFE4C-4FC9-4C7A-B4E9-383DBCD747DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85BBFE4C-4FC9-4C7A-B4E9-383DBCD747DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
