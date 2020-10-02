@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\bin\Debug\netcoreapp3.1\GenericSwapMethodString.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.genruntimeconfig.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericSwapMethodString\obj\Debug\netcoreapp3.1\GenericSwapMethodString.csprojAssemblyReference.cache

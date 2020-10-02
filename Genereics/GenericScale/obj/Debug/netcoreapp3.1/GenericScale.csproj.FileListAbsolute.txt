@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache

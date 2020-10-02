@@ -9,7 +9,7 @@ namespace EvenLines1
     {
         static void Main(string[] args)
         {
-            StreamReader reader = new StreamReader("./text.txt");
+          using StreamReader reader = new StreamReader("./text.txt");
             int counter = 0;
             char[] characteresToReplace = new char[] { '-', ',', '.', '!', '?' };
             while (!reader.EndOfStream)
@@ -62,7 +62,7 @@ namespace EvenLines1
             int wordsLen = words.Length;
             for (int i = 0; i < words.Length; i++)
             {
-                sb.Append(words[wordsLen - i - 1]);
+                sb.Append(words[wordsLen - i - 1] +" ");
             }
             return sb.ToString().TrimEnd();
         }

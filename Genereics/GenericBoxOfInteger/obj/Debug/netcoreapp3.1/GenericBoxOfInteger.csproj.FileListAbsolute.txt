@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.genruntimeconfig.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.csprojAssemblyReference.cache
