@@ -1,6 +1,6 @@
 ﻿
 
-namespace DoublyLinkedList
+namespace CustomDoublyLinkedList
 {
    public class ListNode<T>
     {

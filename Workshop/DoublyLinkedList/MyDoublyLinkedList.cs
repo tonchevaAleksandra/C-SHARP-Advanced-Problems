@@ -2,7 +2,7 @@
 
 using System;
 
-namespace DoublyLinkedList
+namespace CustomDoublyLinkedList
 {
     public class MyDoublyLinkedList
     {

@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace DoublyLinkedList
+namespace CustomDoublyLinkedList
 {
    public class DoublyLinkedListTemplate<T> :IEnumerable<T>
     {
