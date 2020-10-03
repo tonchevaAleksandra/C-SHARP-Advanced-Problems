@@ -1,4 +1,0 @@
-F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.csprojAssemblyReference.cache
-F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.AssemblyInfoInputs.cache
-F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.AssemblyInfo.cs
-F:\Documents\aleks\SOURCE\C SHARP Advanced\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.1\ActionPoint.csproj.CoreCompileInputs.cache
