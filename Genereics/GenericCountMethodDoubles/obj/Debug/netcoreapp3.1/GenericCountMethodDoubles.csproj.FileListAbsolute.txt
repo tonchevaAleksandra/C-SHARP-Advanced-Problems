@@ -1,0 +1,12 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.genruntimeconfig.cache

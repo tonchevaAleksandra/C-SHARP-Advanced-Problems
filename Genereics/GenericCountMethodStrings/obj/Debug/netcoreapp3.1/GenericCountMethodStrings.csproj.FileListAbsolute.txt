@@ -1,0 +1,13 @@
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.exe
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.deps.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.dev.json
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csprojAssemblyReference.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfoInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfo.cs
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+F:\Documents\aleks\SOURCE\C SHARP Advanced\Genereics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.genruntimeconfig.cache
