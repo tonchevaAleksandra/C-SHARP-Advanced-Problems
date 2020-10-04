@@ -18,15 +18,14 @@ class Result
     public static int countingValleys(int steps, string path)
     {
         int count = 0;
-        string pattern = @"([D]+[U]+[D]+)";
-        MatchCollection matches = Regex.Matches(path, pattern);
-        string patternD = @"[D]+";
-        string patternU = @"[U]+[D]+";
-        foreach (Match match in matches)
+        int level = 0;
+        var arr = path.ToCharArray();
+        foreach (var item in arr)
         {
-            string[] matchArgs = match.Value.Split(@"[U]+");
-            count += Math.Min(matchArgs[0].Length, matchArgs[1].Length);
-
+            if (item == 'D') level--;
+            else level++;
+            if (level == 0 && item == 'U') count++;
+            
         }
        
         return count;
