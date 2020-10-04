@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "Counting
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicShop", "ElectronicShop\ElectronicShop.csproj", "{F59ABCA9-3846-47FC-9250-DF25134ADF9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndAMouse", "CatsAndAMouse\CatsAndAMouse.csproj", "{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{F59ABCA9-3846-47FC-9250-DF25134ADF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F59ABCA9-3846-47FC-9250-DF25134ADF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F59ABCA9-3846-47FC-9250-DF25134ADF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
