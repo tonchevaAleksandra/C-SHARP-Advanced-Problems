@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesByMatch", "SalesByMatc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingBook", "DrawingBook\DrawingBook.csproj", "{12F14393-6E45-44B5-983B-B0CE528D459D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "CountingValleys\CountingValleys.csproj", "{15DC5956-3EE0-4FAE-AB99-75B9F4413718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{12F14393-6E45-44B5-983B-B0CE528D459D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F14393-6E45-44B5-983B-B0CE528D459D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F14393-6E45-44B5-983B-B0CE528D459D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DC5956-3EE0-4FAE-AB99-75B9F4413718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DC5956-3EE0-4FAE-AB99-75B9F4413718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DC5956-3EE0-4FAE-AB99-75B9F4413718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DC5956-3EE0-4FAE-AB99-75B9F4413718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
