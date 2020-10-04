@@ -1,15 +1,5 @@
-﻿using System.CodeDom.Compiler;
-using System.Collections.Generic;
+﻿
 using System.Collections;
-using System.ComponentModel;
-using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Runtime.Serialization;
-using System.Text.RegularExpressions;
-using System.Text;
 using System;
 
 class Solution
@@ -19,25 +9,26 @@ class Solution
     static int[] icecreamParlor(int m, int[] arr)
     {
         var result = new int[2];
-        var prices = new Dictionary<int, int>();
-        for (var i = 1; i <= arr.Length; i++)
+        var prices = new Hashtable();// Key=cost, value = index+1
+
+        for (var i = 0; i < arr.Length; i++)
         {
-            var diff = m - arr[i - 1];
-            if (prices.ContainsKey(diff))
+            var diff = m - arr[i];
+            if (prices[diff] != null)
             {
-                result[0] = prices[diff];
-                result[1] = i;
-                
+                result[0] = (int)prices[diff];
+                result[1] = i + 1;
+
                 break;
             }
-            else
+            else if (!prices.ContainsKey(arr[i]))
             {
-                prices.Add(arr[i - 1], i);
+                prices.Add(arr[i], i + 1);
             }
         }
-        Array.Sort(result);
+
         return result;
-       
+
     }
 
     static void Main(string[] args)
