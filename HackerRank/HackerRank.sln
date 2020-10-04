@@ -49,6 +49,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "Divisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDivision", "BillDivision\BillDivision.csproj", "{1CABA654-475D-488B-8524-C57F4AAC810C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesByMatch", "SalesByMatch\SalesByMatch.csproj", "{BEFAFF26-8A30-4A33-97D7-AD07A8358EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingBook", "DrawingBook\DrawingBook.csproj", "{12F14393-6E45-44B5-983B-B0CE528D459D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{1CABA654-475D-488B-8524-C57F4AAC810C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CABA654-475D-488B-8524-C57F4AAC810C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CABA654-475D-488B-8524-C57F4AAC810C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFAFF26-8A30-4A33-97D7-AD07A8358EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFAFF26-8A30-4A33-97D7-AD07A8358EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFAFF26-8A30-4A33-97D7-AD07A8358EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFAFF26-8A30-4A33-97D7-AD07A8358EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F14393-6E45-44B5-983B-B0CE528D459D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F14393-6E45-44B5-983B-B0CE528D459D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F14393-6E45-44B5-983B-B0CE528D459D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F14393-6E45-44B5-983B-B0CE528D459D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
