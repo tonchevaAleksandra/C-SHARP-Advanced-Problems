@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubArrayDivision", "SubArra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{85BBFE4C-4FC9-4C7A-B4E9-383DBCD747DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDivision", "BillDivision\BillDivision.csproj", "{1CABA654-475D-488B-8524-C57F4AAC810C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CABA654-475D-488B-8524-C57F4AAC810C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CABA654-475D-488B-8524-C57F4AAC810C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CABA654-475D-488B-8524-C57F4AAC810C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CABA654-475D-488B-8524-C57F4AAC810C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
