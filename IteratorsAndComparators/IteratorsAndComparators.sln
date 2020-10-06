@@ -7,7 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IteratorsAndComparatorsLAB"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{02B30D36-2CD4-4C5E-B2C8-738A96214B81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorsAndComparators", "Library\IteratorsAndComparators.csproj", "{CFA013CC-BBC5-489F-8D27-A53DBD7B1011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorsAndComparators", "Library\IteratorsAndComparators.csproj", "{CFA013CC-BBC5-489F-8D27-A53DBD7B1011}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IteratorsAndComparatorsEXERCISE", "IteratorsAndComparatorsEXERCISE", "{45A84945-4E41-4821-8D3E-912D9FF7D411}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListyIterator", "ListyIterator\ListyIterator.csproj", "{F9E024FD-4F19-40F3-AC7E-2DC280998D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{C3A89190-0EAB-4129-B09B-6B382540E57F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +29,22 @@ Global
 		{CFA013CC-BBC5-489F-8D27-A53DBD7B1011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFA013CC-BBC5-489F-8D27-A53DBD7B1011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFA013CC-BBC5-489F-8D27-A53DBD7B1011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E024FD-4F19-40F3-AC7E-2DC280998D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E024FD-4F19-40F3-AC7E-2DC280998D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E024FD-4F19-40F3-AC7E-2DC280998D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E024FD-4F19-40F3-AC7E-2DC280998D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A89190-0EAB-4129-B09B-6B382540E57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A89190-0EAB-4129-B09B-6B382540E57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A89190-0EAB-4129-B09B-6B382540E57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A89190-0EAB-4129-B09B-6B382540E57F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CFA013CC-BBC5-489F-8D27-A53DBD7B1011} = {FB19C4EE-0B95-4508-866F-27788994A755}
+		{F9E024FD-4F19-40F3-AC7E-2DC280998D99} = {45A84945-4E41-4821-8D3E-912D9FF7D411}
+		{C3A89190-0EAB-4129-B09B-6B382540E57F} = {45A84945-4E41-4821-8D3E-912D9FF7D411}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6A384690-D019-4AF5-9479-8D9B3592DDD3}

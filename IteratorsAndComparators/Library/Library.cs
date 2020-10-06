@@ -8,13 +8,11 @@ namespace IteratorsAndComparators
    public class Library:IEnumerable<Book>
     {
         private List<Book> books;
-
         public Library(params Book[] books)
         {
             this.books = new List<Book>(books);
             this.books.Sort(new BookComparator());
         }
-
         public void Add(Book book)
         {
             this.books.Add(book);
@@ -50,7 +48,6 @@ namespace IteratorsAndComparators
                     return this.books[this.index];
                 }
             }
-
             object IEnumerator.Current => this.Current;
 
             public void Dispose()
