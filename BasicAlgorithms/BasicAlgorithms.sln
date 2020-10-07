@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{3EA470BB-E9BC-4B35-B29F-515FE45DC427}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{3EA470BB-E9BC-4B35-B29F-515FE45DC427}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{2005FDA3-CAD4-4A6A-BC63-479790CD1080}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{2005FDA3-CAD4-4A6A-BC63-479790CD1080}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfCoins1", "SumOfCoins\SumOfCoins1.csproj", "{2778EC0E-0DC8-46C1-A8A9-624C19C8890B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2005FDA3-CAD4-4A6A-BC63-479790CD1080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2005FDA3-CAD4-4A6A-BC63-479790CD1080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2005FDA3-CAD4-4A6A-BC63-479790CD1080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2778EC0E-0DC8-46C1-A8A9-624C19C8890B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2778EC0E-0DC8-46C1-A8A9-624C19C8890B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2778EC0E-0DC8-46C1-A8A9-624C19C8890B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2778EC0E-0DC8-46C1-A8A9-624C19C8890B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
