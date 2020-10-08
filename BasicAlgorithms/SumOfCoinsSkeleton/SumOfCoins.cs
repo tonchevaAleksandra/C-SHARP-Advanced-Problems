@@ -6,6 +6,9 @@ public class SumOfCoins
 {
     public static void Main(string[] args)
     {
+        // var availableCoins = new[] { 1, 2, 5, 10, 20, 50 };
+        //var targetSum = 923;
+
         var availableCoins = Console.ReadLine()
                 .Split(new char[] { ' ', ':', ',' }, StringSplitOptions.RemoveEmptyEntries)
                 .Skip(1)
@@ -34,7 +37,6 @@ public class SumOfCoins
         {
             Console.WriteLine($"{selectedCoin.Value} coin(s) with value {selectedCoin.Key}");
         }
-
 
     }
 
