@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAbsoluteDifferenceIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarksCakewalk", "MarksCakewalk\MarksCakewalk.csproj", "{100ECB41-A42D-4055-8D5A-44DF13147D58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckBallance", "LuckBallance\LuckBallance.csproj", "{CEF209F1-C6E8-4E95-9B2D-2EA121BEAC58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{100ECB41-A42D-4055-8D5A-44DF13147D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{100ECB41-A42D-4055-8D5A-44DF13147D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{100ECB41-A42D-4055-8D5A-44DF13147D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF209F1-C6E8-4E95-9B2D-2EA121BEAC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF209F1-C6E8-4E95-9B2D-2EA121BEAC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF209F1-C6E8-4E95-9B2D-2EA121BEAC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF209F1-C6E8-4E95-9B2D-2EA121BEAC58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
