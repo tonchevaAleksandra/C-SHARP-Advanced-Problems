@@ -47,17 +47,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratoryBirds", "Migratory
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{3C58EF18-CBEF-486D-8944-ABEEEAA5B6D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDivision", "BillDivision\BillDivision.csproj", "{1CABA654-475D-488B-8524-C57F4AAC810C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillDivision", "BillDivision\BillDivision.csproj", "{1CABA654-475D-488B-8524-C57F4AAC810C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesByMatch", "SalesByMatch\SalesByMatch.csproj", "{BEFAFF26-8A30-4A33-97D7-AD07A8358EF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesByMatch", "SalesByMatch\SalesByMatch.csproj", "{BEFAFF26-8A30-4A33-97D7-AD07A8358EF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingBook", "DrawingBook\DrawingBook.csproj", "{12F14393-6E45-44B5-983B-B0CE528D459D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawingBook", "DrawingBook\DrawingBook.csproj", "{12F14393-6E45-44B5-983B-B0CE528D459D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "CountingValleys\CountingValleys.csproj", "{15DC5956-3EE0-4FAE-AB99-75B9F4413718}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingValleys", "CountingValleys\CountingValleys.csproj", "{15DC5956-3EE0-4FAE-AB99-75B9F4413718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicShop", "ElectronicShop\ElectronicShop.csproj", "{F59ABCA9-3846-47FC-9250-DF25134ADF9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectronicShop", "ElectronicShop\ElectronicShop.csproj", "{F59ABCA9-3846-47FC-9250-DF25134ADF9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndAMouse", "CatsAndAMouse\CatsAndAMouse.csproj", "{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatsAndAMouse", "CatsAndAMouse\CatsAndAMouse.csproj", "{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAbsoluteDifferenceInAnArray", "MinimumAbsoluteDifferenceInAnArray\MinimumAbsoluteDifferenceInAnArray.csproj", "{5EAE4D2F-0D6E-4A49-8AC7-0E2C3BCCCAF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAE4D2F-0D6E-4A49-8AC7-0E2C3BCCCAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAE4D2F-0D6E-4A49-8AC7-0E2C3BCCCAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAE4D2F-0D6E-4A49-8AC7-0E2C3BCCCAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAE4D2F-0D6E-4A49-8AC7-0E2C3BCCCAF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
