@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifullDaysAtTheMovies",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcAndToys", "MarcAndToys\MarcAndToys.csproj", "{3464FF23-190A-4430-AA86-7CEB385EA76D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyFlorist", "GreedyFlorist\GreedyFlorist.csproj", "{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{3464FF23-190A-4430-AA86-7CEB385EA76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3464FF23-190A-4430-AA86-7CEB385EA76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3464FF23-190A-4430-AA86-7CEB385EA76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
