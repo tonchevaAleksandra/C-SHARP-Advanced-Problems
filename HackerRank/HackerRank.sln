@@ -59,23 +59,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectronicShop", "Electroni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatsAndAMouse", "CatsAndAMouse\CatsAndAMouse.csproj", "{C0BDE4EB-476C-4D46-9D4E-A1E03A05D3BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAbsoluteDifferenceInAnArray", "MinimumAbsoluteDifferenceInAnArray\MinimumAbsoluteDifferenceInAnArray.csproj", "{5EAE4D2F-0D6E-4A49-8AC7-0E2C3BCCCAF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumAbsoluteDifferenceInAnArray", "MinimumAbsoluteDifferenceInAnArray\MinimumAbsoluteDifferenceInAnArray.csproj", "{5EAE4D2F-0D6E-4A49-8AC7-0E2C3BCCCAF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarksCakewalk", "MarksCakewalk\MarksCakewalk.csproj", "{100ECB41-A42D-4055-8D5A-44DF13147D58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarksCakewalk", "MarksCakewalk\MarksCakewalk.csproj", "{100ECB41-A42D-4055-8D5A-44DF13147D58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckBallance", "LuckBallance\LuckBallance.csproj", "{CEF209F1-C6E8-4E95-9B2D-2EA121BEAC58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuckBallance", "LuckBallance\LuckBallance.csproj", "{CEF209F1-C6E8-4E95-9B2D-2EA121BEAC58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumPerimeterTriangle", "MaximumPerimeterTriangle\MaximumPerimeterTriangle.csproj", "{81B1C1A5-339A-499C-8486-174007641561}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumPerimeterTriangle", "MaximumPerimeterTriangle\MaximumPerimeterTriangle.csproj", "{81B1C1A5-339A-499C-8486-174007641561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candies", "Candies\Candies.csproj", "{2B150A1C-A57E-47D6-9C13-BA9B9706D91C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Candies", "Candies\Candies.csproj", "{2B150A1C-A57E-47D6-9C13-BA9B9706D91C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryProfessor", "AngryProfessor\AngryProfessor.csproj", "{3F62611F-C995-49E8-94C3-FE328DB67BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngryProfessor", "AngryProfessor\AngryProfessor.csproj", "{3F62611F-C995-49E8-94C3-FE328DB67BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifullDaysAtTheMovies", "BeautifullDaysAtTheMovies\BeautifullDaysAtTheMovies.csproj", "{DFF75D2B-A0BE-45A9-9C12-D134F8825653}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautifullDaysAtTheMovies", "BeautifullDaysAtTheMovies\BeautifullDaysAtTheMovies.csproj", "{DFF75D2B-A0BE-45A9-9C12-D134F8825653}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcAndToys", "MarcAndToys\MarcAndToys.csproj", "{3464FF23-190A-4430-AA86-7CEB385EA76D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarcAndToys", "MarcAndToys\MarcAndToys.csproj", "{3464FF23-190A-4430-AA86-7CEB385EA76D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyFlorist", "GreedyFlorist\GreedyFlorist.csproj", "{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreedyFlorist", "GreedyFlorist\GreedyFlorist.csproj", "{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMin", "MaxMin\MaxMin.csproj", "{79B49548-A813-4F4B-B714-FD64EFA87010}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3E35DFC-2C12-4F7D-B072-D3B80EAC0EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B49548-A813-4F4B-B714-FD64EFA87010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B49548-A813-4F4B-B714-FD64EFA87010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B49548-A813-4F4B-B714-FD64EFA87010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B49548-A813-4F4B-B714-FD64EFA87010}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
