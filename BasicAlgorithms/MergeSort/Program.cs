@@ -9,4 +9,13 @@ namespace MergeSort
             Console.WriteLine("Hello World!");
         }
     }
+
+    public class Mergesort<T> where T:IComparable<T>
+    {
+        private T[] temp;
+        public static void Sort(T[] arr)
+        {
+
+        }
+    }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace SelectionSort
 {
@@ -7,8 +8,12 @@ namespace SelectionSort
     {
         static void Main(string[] args)
         {
-            var collection = new int[] { 15, 7, 2, 4, 18, 1, 53, 35, 5, 4, 2, 87, 14, 13, 16, 81 };
-            Print(collection);
+
+            int[] collection = Console.ReadLine()
+              .Split()
+              .Select(int.Parse)
+              .ToArray();
+          
             for (int i = 0; i < collection.Length; i++)
             {
                 int min = i;
@@ -23,7 +28,7 @@ namespace SelectionSort
                 Swap(collection, i, min);
                 Print(collection);
             }
-           
+            Print(collection);
         }
 
         private static void Print(int[] collection)
