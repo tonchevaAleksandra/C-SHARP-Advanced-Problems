@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace BinarySearchIterative
 {
@@ -27,12 +28,16 @@ namespace BinarySearchIterative
         }
         static void Main(string[] args)
         {
-            var collection = new int[] { 15, 7, 2, 4, 18, 1, 53, 35, 5, 4, 2, 87, 14, 13, 16, 81 };
+
+            int[] collection = Console.ReadLine()
+             .Split()
+             .Select(int.Parse)
+             .ToArray();
             Array.Sort(collection);
             int start = 0;
             int end = collection.Length-1;
             int key = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Index of searched element if {BinarySearch(collection,key, start, end)}");
+            Console.WriteLine($"{BinarySearch(collection,key, start, end)}");
 
         }
     }
