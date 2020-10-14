@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bombs", "Bombs\Bombs.csproj", "{DD70EF30-EDEE-4A66-AE64-92DE7C704DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{83CC53C7-09B6-4CC6-BF18-A051C8FAE947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD70EF30-EDEE-4A66-AE64-92DE7C704DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD70EF30-EDEE-4A66-AE64-92DE7C704DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD70EF30-EDEE-4A66-AE64-92DE7C704DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD70EF30-EDEE-4A66-AE64-92DE7C704DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CC53C7-09B6-4CC6-BF18-A051C8FAE947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CC53C7-09B6-4CC6-BF18-A051C8FAE947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CC53C7-09B6-4CC6-BF18-A051C8FAE947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CC53C7-09B6-4CC6-BF18-A051C8FAE947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {648AC4A9-27F9-47F8-8C48-A0B99128EB11}
+	EndGlobalSection
+EndGlobal
