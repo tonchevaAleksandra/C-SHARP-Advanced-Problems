@@ -44,6 +44,7 @@ namespace Guild
                 {
                     this.roster.Remove(item);
                     isRemoved = true;
+                    break;
                 }
             }
            
@@ -54,7 +55,7 @@ namespace Guild
         {
             for (int i = 0; i < this.Count; i++)
             {
-                if(this.roster[i].Name==name)
+                if(this.roster[i].Name==name && this.roster[i].Rank != "Member")
                 {
                     this.roster[i].Rank = "Member";
                 }
@@ -67,9 +68,9 @@ namespace Guild
         {
             foreach (var item in this.roster)
             {
-                if (item.Name == name)
+                if (item.Name == name && item.Rank != "Trial")
                 {
-                    item.Rank = default;
+                    item.Rank = "Trial";
                 }
                 break;
             }
