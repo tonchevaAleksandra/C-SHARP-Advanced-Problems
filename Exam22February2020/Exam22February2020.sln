@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lootbox", "Lootbox\Lootbox.csproj", "{39162EEC-1844-478D-950A-6DA5C6627C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReVolt", "ReVolt\ReVolt.csproj", "{FB6043AE-BC37-4F8F-B3C2-F891ED18846D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39162EEC-1844-478D-950A-6DA5C6627C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39162EEC-1844-478D-950A-6DA5C6627C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39162EEC-1844-478D-950A-6DA5C6627C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39162EEC-1844-478D-950A-6DA5C6627C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6043AE-BC37-4F8F-B3C2-F891ED18846D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6043AE-BC37-4F8F-B3C2-F891ED18846D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6043AE-BC37-4F8F-B3C2-F891ED18846D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6043AE-BC37-4F8F-B3C2-F891ED18846D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF5F87B1-F885-498B-AD46-653531B9DDA0}
+	EndGlobalSection
+EndGlobal
