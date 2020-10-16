@@ -45,17 +45,22 @@ namespace Rabbits
         //•	Method RemoveSpecies(string species) - removes all rabbits by given species
         public void RemoveSpecies(string species)
         {
-            var list = this.data.Where(r => r.Species == species).ToList();
-            foreach (var item in list)
-            {
-                this.data.Remove(item);
-            }
+           
+            this.data.RemoveAll(r => r.Species == species);
+
         }
-        //•	Method SellRabbit(string name) - sell(set its Available property to false without removing it from the collection) the first rabbit with the given name, also return the rabbit
+        
         public Rabbit SellRabbit(string name)
         {
-            Rabbit rabbit = this.data.Find(r => r.Name == name);
-            rabbit.Bool = true;
+            Rabbit rabbit = this.data.FirstOrDefault(r => r.Name == name);
+            for (int i = 0; i < this.Count; i++)
+            {
+                if(this.data[i].Name==name)
+                {
+                    this.data[i].Available = false;
+                }
+            }
+           
             return rabbit;
         }
 
@@ -67,7 +72,7 @@ namespace Rabbits
             {
                 if (item.Species == species)
                 {
-                    item.Bool = true;
+                    item.Available = true;
                     rabbits.Add(item);
                 }
             }
@@ -79,7 +84,7 @@ namespace Rabbits
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Rabbits available at {this.Name}:");
-            foreach (var item in this.data.Where(r=>r.Bool==true))
+            foreach (var item in this.data.Where(r=>r.Available==true))
             {
                 sb.AppendLine(item.ToString());
             }
