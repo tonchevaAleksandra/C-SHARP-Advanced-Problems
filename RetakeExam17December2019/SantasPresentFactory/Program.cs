@@ -52,7 +52,8 @@ namespace SantasPresentFactory
                     {
                         materials.Pop();
                     }
-                    else magic.Dequeue();
+                   if(magic.Peek()==0) magic.Dequeue();
+                    continue;
                 }
                 else
                 {
