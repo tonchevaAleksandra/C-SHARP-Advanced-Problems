@@ -4,7 +4,7 @@ using System;
 
 namespace CustomDoublyLinkedList
 {
-    public class MyDoublyLinkedList
+    public class CustomDoublyLinkedList
     {
         private ListNode<int> head;
         private ListNode<int> tail;
@@ -102,7 +102,7 @@ namespace CustomDoublyLinkedList
             }
         }
 
-        public void Foreach(Action<int> action)
+        public void ForEach(Action<int> action)
         {
             var currentNode = this.head;
             while (currentNode!=null)

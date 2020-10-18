@@ -17,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementExtensionForString
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WorkshopEXERCICE", "WorkshopEXERCICE", "{EDFB3815-3A3A-4E0C-B4C1-2A8466ECB30F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedList", "DoublyLinkedList\DoublyLinkedList.csproj", "{25E1E424-2F0D-461A-8B9E-E887B4014A9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomDoublyLinkedList", "DoublyLinkedList\CustomDoublyLinkedList.csproj", "{25E1E424-2F0D-461A-8B9E-E887B4014A9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingQueue", "ImplementingQueue\ImplementingQueue.csproj", "{B7A1642A-18FB-4BA1-A51B-D41BF5FF1E76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementingQueue", "ImplementingQueue\ImplementingQueue.csproj", "{B7A1642A-18FB-4BA1-A51B-D41BF5FF1E76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

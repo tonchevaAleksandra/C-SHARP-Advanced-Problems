@@ -114,7 +114,7 @@ namespace CustomDoublyLinkedList
             }
         }
 
-        public void Foreach(Action<T> action)
+        public void ForЕach(Action<T> action)
         {
             var currentNode = this.head;
             while (currentNode != null)

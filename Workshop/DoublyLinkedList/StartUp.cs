@@ -6,7 +6,7 @@ namespace CustomDoublyLinkedList
     {
         static void Main(string[] args)
         {
-            MyDoublyLinkedList dLL = new MyDoublyLinkedList();
+            CustomDoublyLinkedList dLL = new CustomDoublyLinkedList();
             //dLL.Count = 5; -it's private set, I can't set it out of the class
             for (int i = 0; i < 3; i++)
             {
@@ -23,7 +23,7 @@ namespace CustomDoublyLinkedList
 
             dLL.RemoveFirst();
 
-            dLL.Foreach(Console.WriteLine);
+            dLL.ForEach(Console.WriteLine);
 
             dLL.ToArray();
 
@@ -33,7 +33,7 @@ namespace CustomDoublyLinkedList
                 dllt.AddFirst("Pesho " + i);
             }
 
-            dllt.Foreach(Console.WriteLine);
+            dllt.ForЕach(n=>Console.WriteLine(n));
             Console.WriteLine(dllt[0]);
 
             foreach (var item in dllt)
