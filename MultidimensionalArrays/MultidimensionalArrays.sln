@@ -47,7 +47,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miner", "Miner\Miner.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadioactiveMutantVampireBunnies90Points", "RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies90Points.csproj", "{7AA24D6E-7756-4F46-83F7-2A3D927645D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioactiveMutantVampireBunnies1", "RadioactiveMutantVampireBunnies1\RadioactiveMutantVampireBunnies1.csproj", "{5A136386-801D-4C5C-85BC-0D8E99598831}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadioactiveMutantVampireBunnies1", "RadioactiveMutantVampireBunnies1\RadioactiveMutantVampireBunnies1.csproj", "{5A136386-801D-4C5C-85BC-0D8E99598831}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
