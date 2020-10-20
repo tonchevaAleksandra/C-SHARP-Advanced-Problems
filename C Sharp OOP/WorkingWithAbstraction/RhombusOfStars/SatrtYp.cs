@@ -2,7 +2,7 @@
 
 namespace RhombusOfStars
 {
-    class Program
+    class SatrtYp
     {
         static void Main(string[] args)
         {

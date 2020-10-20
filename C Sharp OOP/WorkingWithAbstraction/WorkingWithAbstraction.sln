@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Animals", "Practic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhombusOfStars", "RhombusOfStars\RhombusOfStars.csproj", "{B6AF1F3E-731E-408C-B996-D25F4B38B8DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInRectangle", "PointInRectangle\PointInRectangle.csproj", "{20C30AC3-7CAC-410C-8D48-33838E62264D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +31,17 @@ Global
 		{B6AF1F3E-731E-408C-B996-D25F4B38B8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6AF1F3E-731E-408C-B996-D25F4B38B8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6AF1F3E-731E-408C-B996-D25F4B38B8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C30AC3-7CAC-410C-8D48-33838E62264D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C30AC3-7CAC-410C-8D48-33838E62264D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C30AC3-7CAC-410C-8D48-33838E62264D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C30AC3-7CAC-410C-8D48-33838E62264D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B6AF1F3E-731E-408C-B996-D25F4B38B8DA} = {2B1EF8EC-5CB8-40B4-AFAC-FB2105B64CC1}
+		{20C30AC3-7CAC-410C-8D48-33838E62264D} = {2B1EF8EC-5CB8-40B4-AFAC-FB2105B64CC1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {373FE1BA-9A56-42FE-8A0A-C62DACA887E3}
