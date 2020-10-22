@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
 namespace Rabbits
@@ -68,6 +69,8 @@ namespace Rabbits
         public Rabbit[] SellRabbitsBySpecies(string species)
         {
             var rabbits = new List<Rabbit>();
+            //rabbits = this.data.Where(x => x.Species == species).ToList();
+            //rabbits.ForEach(x => x.Available = false);
             foreach (var item in this.data)
             {
                 if (item.Species == species)
