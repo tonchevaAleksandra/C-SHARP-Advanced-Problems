@@ -75,7 +75,7 @@ namespace Rabbits
             {
                 if (item.Species == species)
                 {
-                    item.Available = true;
+                    item.Available = false;
                     rabbits.Add(item);
                 }
             }
