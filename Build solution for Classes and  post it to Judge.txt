@@ -1,0 +1,21 @@
+1. First, assure yourself if they want a specific names/namespace or class/ in the task
+   - If they ask for a specific Namespace, then you have to create  the project with this name 
+   - If they ask for a StartUp class - remane the Program.cs file => StartUp.cs
+2. Make the StartUp class public
+3. Create class/es /if they ask for a specific name to the classes, create them with those names/
+- right click on the your project Select Add=> Class => give name to the class
+4. Make all classes PUBLIC
+5. If you have a methods in the class, that you want to use in onather class of your project, make it public 
+6. Save your work =>Ctrt+Shift+S
+
+   PREPARE YOUR FILES FOR SUBMISSION IN JUDGE
+1. Right click on your project => Select OPEN Folder in File Explorer
+2. The Folder where your project is stored is open => Select all files in this folder except the folders BIN  and OBJ
+3. Right click to the selected choose option => Send to => ZIP
+4. When zip is created you can loaded from Judge
+
+P.S. For the tasks that you have to upload files => When in Judge is marked 
+  -    .NET Core Project Test - it means that they will test your submission with the exact names they gave you
+ /Judge will search to run the program by those names of namespace etc./
+  -   .Net Core Project 
+
